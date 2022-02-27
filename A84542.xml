@@ -1,0 +1,385 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An abstract of the Act for granting an aid to his Majesty, as well by a land-tax as by several subsidies and other duties payable for one year. An. 8 W. 3</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 41 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84542</idno>
+            <idno type="STC">Wing E958AB</idno>
+            <idno type="STC">ESTC R231499</idno>
+            <idno type="EEBO-CITATION">99897319</idno>
+            <idno type="PROQUEST">99897319</idno>
+            <idno type="VID">135238</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84542)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 135238)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2484:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An abstract of the Act for granting an aid to his Majesty, as well by a land-tax as by several subsidies and other duties payable for one year. An. 8 W. 3</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Charles Bill, and the Executrix of Thomas Newcomb, deceas'd, printers to the Kings most excellent Majesty,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1696]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Taxation --  Law and legislation --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:135238:1"/>
+            <head>An <hi>ABSTRACT</hi> of the Act for Granting an Aid to His Majeſty, as well by a Land-Tax as by ſeveral Subſidies and other Duties Payable for One Year. <hi>An. 8</hi> W. <hi>3.</hi>
+            </head>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">pag </seg>36</label> ENacted, That all Perſons of what Eſtate, Degree, Age, Sex or Condition ſoever, within the Kingdom of <hi>England,</hi> Domini<g ref="char:EOLhyphen"/>on of <hi>Wales,</hi> and Town of <hi>Berwick</hi> upon <hi>Tweed,</hi> not receiving Alms, ſhall pay unto His Majeſty, His Heirs and Succeſſors, within the ſpace of One Year from 25 <hi>Jan.</hi> 1696. the Sum of 4. <hi>s.</hi> 4. <hi>d.</hi> by Monthly payments of 4 <hi>d. per</hi> Month, reckoning 28 Days to each Month, the firſt payment to be 22 <hi>Feb.</hi> 1696.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">pag </seg>37</label> Over and above which Duty of 4 <hi>d. per</hi> Month, all Servants and Journeymen (except Day-Labourers) having 4 <hi>l. per ann.</hi> Wages, or upwards, and not ex<g ref="char:EOLhyphen"/>ceeding 8 <hi>l. per ann.</hi> to pay for the ſame 13 <hi>d. per l.</hi> for One Year, by like Monthly payments of 1 <hi>d. per l.</hi> And for more than 8 <hi>l. per. annum</hi> Wages, and not ex<g ref="char:EOLhyphen"/>ceeding 16 <hi>l. per ann.</hi> the Sum of 2 <hi>s.</hi> 2 <hi>d. per l.</hi> by like Monthly Payments of 2 <hi>d. per l.</hi> 
+               <label type="milestone">
+                  <seg type="milestoneunit">pag </seg>38</label> And for more than 16 <hi>l. per ann.</hi> Wages, the Sum of 4 <hi>s.</hi> 4 <hi>d. per l.</hi> by like Monthly payments of 4 <hi>d per l.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">pag </seg>39</label> All Perſons having or claiming any Penſion, An<g ref="char:EOLhyphen"/>nuity, Stipend, or other yearly Payment out of the Exchequer, or any Branch of His Majeſties Revenue (except Rents iſſuing out of Lands, Tenements, or Hereditaments, or charged upon the ſame, and ſuch Annuities as are or ſhall be exempted by Act of Par<g ref="char:EOLhyphen"/>liament) to pay for the ſame 4 <hi>s.</hi> 4 <hi>d. per l.</hi> for One Year, by like Monthly Payments of 4 <hi>d. per l.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">pag </seg>40</label> All Perſons that have or are to have, receive or en<g ref="char:EOLhyphen"/>joy any Salary, Fee or Wages, or any Perquiſites, Al<g ref="char:EOLhyphen"/>lowances, Poundage, Gratuities, Rewards, Emolu<g ref="char:EOLhyphen"/>ments, Income or Profits whatſoever, ariſing by any Commiſſions, Offices or Imployments, Eccleſiaſtical, Civil or Military, under His Majeſty His Heirs or Succeſſors, or under the Queen Dowager, the Prince or Princeſs of <hi>Denmark,</hi> or under Lords of Ma<g ref="char:EOLhyphen"/>nors, or any other Perſons, and all their Clerks, De<g ref="char:EOLhyphen"/>puties, Aſſiſtants and Subſtitutes (except Military Of<g ref="char:EOLhyphen"/>ficers in Muſter in the Army, Navy or Ordnance) to pay for the ſame 4 <hi>s.</hi> 4 <hi>d. per l.</hi> for One Year, by like Monthly payments of 4 <hi>d. per</hi> pound.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">pag </seg>41</label> All Sergeants at Law, Barriſters, Attorneys, Sol<g ref="char:EOLhyphen"/>licitors, Publick Notaries, Scriveners, Chancellors, Commiſſaries, Officials, Regiſters, Advocates, Pro<g ref="char:EOLhyphen"/>ctors, Apparitors, or practiſing as ſuch; Broakers to <label type="milestone">
+                  <seg type="milestoneunit">pag </seg>42</label> Merchants, Factors, and other Perſons acting by Commiſſion from Merchants: All Practicers in Phy<g ref="char:EOLhyphen"/>ſick and Chirurgery, Apothecaries, and all other Pro<g ref="char:EOLhyphen"/>feſſions (not charged by the laſt foregoing Clauſe) to pay 4 <hi>s.</hi> 4 <hi>d.</hi> for one Year, for every 20 <hi>s.</hi> ariſing by their Practices or Profeſſions, by like Monthly Payments of 4 <hi>d. per l.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">pag </seg>43</label> All Perſons having any Eſtate in Ready Money or in Debts at Intereſt, within or without the Realm or owing upon Mortgages, Judgments, Statutes, Recogni<g ref="char:EOLhyphen"/>zances, Bonds, Bills, Notes, or other Securities (ex<g ref="char:EOLhyphen"/>cept Loans and Debts from His Majeſty, and Arrears of Rent) to pay 25 <hi>s.</hi> for One Year, for every ſuch 100 <hi>l.</hi> by Twelve Monthly Payments of 2 <hi>s.</hi> 1 <hi>d.</hi> for every 100 <hi>l.</hi> and ſo proportionably for a greater or leſſer Sum, a Farthing <hi>per l.</hi> each Month; the firſt Payment to be 25 <hi>Febr.</hi> 1696. And thenceforth the 25th day of each Kalendary Month, deducting only ſuch Debts as are really and <hi>bona fide</hi> owing from ſuch Perſon or Perſons at Intereſt.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">pag </seg>44</label> All Perſons uſing or exerciſing any Trade, Myſtery, Occupation or buſineſs of Merchandiſing, Shopkeep<g ref="char:EOLhyphen"/>ing, or other Buying or Selling by Wholeſale or Retail, to pay 50 <hi>s.</hi> for One Year for every 100 <hi>l.</hi> value in Goods, Wares, Merchandizes, Commodi<g ref="char:EOLhyphen"/>ties, Manufactures or Vendible Stock, and Propor<g ref="char:EOLhyphen"/>tionably for a greater or leſſer Value, by Twelve like Kalendary Monthly Payments of a Halfpeny for eve<g ref="char:EOLhyphen"/>ry Pound value, or 4 <hi>s.</hi> 2 <hi>d.</hi> for every 100 <hi>l.</hi> value.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">pag </seg>45</label> All Perſons having in their Tenure, Poſſeſſion or Occupation any Lands, Tenements or Heredita<g ref="char:EOLhyphen"/>ments, whereupon there ſhall be any Horſes, Mares, Geldings, Colts, Bulls, Oxen, Cows, Calves, Sheep, Lambs, Swine, or other Cattel great or ſmall, or other Quick Stock, whether the ſame belong to ſuch Perſons reſpectively, or to others, to pay for One Year, after the Rate of 12 <hi>s.</hi> for every 100 <hi>l.</hi> of the true value thereof, by Twelve like Kalendary Monthly Payments of 12 <hi>d.</hi> for every 100 <hi>l.</hi> and ſo proportionably for a greater or leſſer value.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">pag </seg>46</label> A Proviſo, That the Wives and Children under the Age of Sixteen Years of ſuch Perſons who are charge<g ref="char:EOLhyphen"/>able only with the firſt mentioned Duty of 4 <hi>d. per</hi> Month, ſhall be Exempted from the ſaid 4 <hi>d. per</hi> Month.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">pag </seg>47</label> All Manors, Meſſuages, Lands, Tenements, Quar<g ref="char:EOLhyphen"/>ries, Mines, Iron-Works, Salt-Works, and Allom-Works, Parks, Chaces, Warrens, Woods, Under-Woods, Coppices, Fiſhings, Tythes and Tolls, Annui<g ref="char:EOLhyphen"/>ties, Rents-charge, and yearly Profits whatſoever,<label type="milestone">
+                  <seg type="milestoneunit">pag </seg>48</label> ſhall be charged for one year, with the Sum of 3 <hi>s.</hi> for every 20 <hi>s.</hi> of the true and full yearly value, with<g ref="char:EOLhyphen"/>out reſpect to the preſent Rents reſerved, or to any other Rates of Taxes thereupon, or making any A<g ref="char:EOLhyphen"/>batement <label type="milestone">
+                  <seg type="milestoneunit">pag </seg>49</label> for Reparations, or any other charges; and ſhall be paid by twelve equal Monthly Payments, the firſt payment to be made on the ſaid 25 <hi>Feb.</hi> 1696, and ſo on the 25 day of every ſubſequent Kalenda<g ref="char:EOLhyphen"/>ry Month.</p>
+            <p>The Owners of any of the ſaid Lands, Tenements and Hereditaments, which are liable to any Rent-charges, Annuities, Fee-farm Rents, Rents-Service,<label type="milestone">
+                  <seg type="milestoneunit">pag </seg>50</label> or other Rents, to deduct 3 <hi>s.</hi> in the Pound thereout, and to be allowed it by the Perſons Intituled to the ſaid Rents.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">pag </seg>51</label> His Majeſty to appoint Commiſſioners under the Great Seal of <hi>England,</hi> for the more effectual Execu<g ref="char:EOLhyphen"/>tion of this Act, who ſhall Meet together at the uſual places, upon or before 20 <hi>Feb.</hi> 1696. and may then <label type="milestone">
+                  <seg type="milestoneunit">pag </seg>52</label> Subdivide themſelves ſo as there be Three or more to each Hundred or other Diviſion: And ſhall then give an Account in Writing to the Receiver General of the Commiſſioners appointed for each Diviſion: And the ſaid Commiſſioners ſhall iſſue their Precepts to ſuch as they think fit to be Preſenters or Aſſeſſors, to appear before them within Five Days; And then to <label type="milestone">
+                  <seg type="milestoneunit">pag </seg>53</label> read the Rates, and charge them with the Execution of the Act: And the Perſons to whom any Precepts are directed, abſenting without Excuſe, or refuſing to Serve, to forfeit a Sum not exceeding 5 <hi>l.</hi> nor leſs than 40 <hi>s.</hi>
+            </p>
+            <p>The Commiſſioners to Appoint Two at the leaſt <label type="milestone">
+                  <seg type="milestoneunit">pag </seg>54</label> of the moſt ſufficient Inhabitants of each Pariſh, <hi>&amp;c.</hi> to be Aſſeſſors, who by a Day Prefixed ſhall bring in Certificates of the Names of the Perſons within their Diviſion, containing in ſeveral Collums,</p>
+            <list>
+               <item>1. The Tax payable by Perſons chargeable with the 4 <hi>d. per</hi> Month.</item>
+               <item>2. The Value of the Wages to be Rated.</item>
+               <item>3. The Penſions, Stipends or other yearly Pay<g ref="char:EOLhyphen"/>ments.</item>
+               <item>4. The Nature and Value of Offices, Imployments and Profeſſions.</item>
+               <item>
+                  <label type="milestone">
+                     <seg type="milestoneunit">pag </seg>55</label> 5. The Ready Money and Debts at Intereſt.</item>
+               <item>6. The Stock in Trade.</item>
+               <item>7. The Stock upon Land, and the monthly Rates of the Premiſſes reſpectively.</item>
+            </list>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">pag </seg>56</label> And the Aſſeſſors are Enjoyned to Inform them<g ref="char:EOLhyphen"/>ſelves of the full yearly Value of all Lands, Te<g ref="char:EOLhyphen"/>nements and Hereditaments whatſoever, above the Reſerved Rent, and to Aſſeſs the ſame at the Rate of 3 <hi>s.</hi> for every 20 <hi>s.</hi> of the full yearly Value; and to Deſcribe the Lands, <hi>&amp;c.</hi> in their Books, ſo as may beſt Aſcertain the Rates intended by the Act to be Impoſed.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">pag </seg>57</label> The Aſſeſſors to be the Collectors of the Moneys payable by this Act, and the Pariſh, <hi>&amp;c.</hi> to be An<g ref="char:EOLhyphen"/>ſwerable for their Paying it to the Head Collectors: And if any Aſſeſſor refuſe to Serve, or make De<g ref="char:EOLhyphen"/>fault, (without a Lawful Excuſe) to Forfeit a Sum not exceeding 20 <hi>l.</hi> nor leſs than 10 <hi>l.</hi>
+            </p>
+            <pb n="2" facs="tcp:135238:2"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">pag </seg>58</label> The Aſſeſſors to take the Oaths of Allegiance and Supremacy, and an Oath for the Faithful Execution <label type="milestone">
+                  <seg type="milestoneunit">pag </seg>59</label> of his Duty as an Aſſeſſor; And ſhall make their Aſ<g ref="char:EOLhyphen"/>ſeſſments, and return the Certificates thereof to the Commiſſioners by the Fifth Day of <hi>March,</hi> 1696. who may then Examine the ſame, or within Twenty <label type="milestone">
+                  <seg type="milestoneunit">pag </seg>60</label> Days after; And if the Commiſſioners ſuſpect any of the Lands, <hi>&amp;c.</hi> to be under Charged, they may Exa<g ref="char:EOLhyphen"/>mine the Owners thereof, who for neglecting to Appear (without Lawful Excuſe) ſhall Forfeit dou<g ref="char:EOLhyphen"/>ble the Sum Chargeable thereupon.</p>
+            <p>The Commiſſioners to Inform themſelves upon Oath of any Omiſſions or Under Aſſeſſments, and to ſet ſuch Rates as ſhall be according to the Meaning <label type="milestone">
+                  <seg type="milestoneunit">pag </seg>61</label> of the Act; And to deliver back Duplicates of the Aſſeſſments to Collect by, and to the Receivers Ge<g ref="char:EOLhyphen"/>neral and their Head Collectors; And to return Ex<g ref="char:EOLhyphen"/>tracts of the ſaid Aſſeſſments into the Exchequer, on <label type="milestone">
+                  <seg type="milestoneunit">pag </seg>62</label> or before the Tenth of <hi>March,</hi> 1696. or within Forty Days after. And the Kings Remembrancer is, within Three Months after the Duplicates of the laſt Payment return'd, to tranſmit Copies to the Audi<g ref="char:EOLhyphen"/>tor of the Receipt.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">pag </seg>63</label> The Aſſeſſments to be Collected Monthly, or within Fourteen Days after they become Due; and the Collectors, are to pay what they Receive to the Head Collectors, within Fourteen Days after the times Prefixt for Demanding the ſame.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">pag </seg>64</label> The Commiſſioners may Appoint other Collectors in the Rooms of ſuch as dye, are ſick, fail or are overburdned.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">pag </seg>65</label> The Head Collectors to haſten the Subcollectors, and in caſe of neglect or failure to Diſtrain upon the Subcollectors; And the Head Collector is to make <label type="milestone">
+                  <seg type="milestoneunit">pag </seg>66</label> Payment to the Receiver General within Seven Days after the time for Payment by the Subcollectors: And the Receiver General is to haſten the Head Collectors, and to Pay What he receives from the Head Collector into the Exchequer, within Seven Days after the times prefixt for Payment by the Head Collector; And all Perſons concerned in the Execution of this Act are to uſe Diligence.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">pag </seg>67</label> The Head Collectors Receipt ſhall be a Diſcharge to the Subcollector; Which Subcollector is to have 4 <hi>d.</hi> in the Pound for what he Receives, and not forced to Travel above Ten Miles.</p>
+            <p>The Head Collector is to be Appointed by the Re<g ref="char:EOLhyphen"/>ceiver General, who is to be Anſwerable for the Mo<g ref="char:EOLhyphen"/>ney ſo Collected or Received, and whoſe Acquittance ſhall be a Diſcharge to the Head Collector; Which Receiver General is to have 2 <hi>d.</hi> in the Pound for <label type="milestone">
+                  <seg type="milestoneunit">pag </seg>68</label> what he ſhall Pay into the Exchequer; And the Com<g ref="char:EOLhyphen"/>miſſioners Clerks to have 3 Half-pence in the Pound for Writing the Warrants, Certificates, Eſtreats and Duplicates.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">pag </seg>69</label> In caſe of Non-payment, the Subcollectors to Di<g ref="char:EOLhyphen"/>ſtrain, and the Diſtreſs having been kept four days at the Owners Charge, then to be Appraiſed and Sold, and the Overplus returned.</p>
+            <p>It ſhall be lawful to break open Houſes in the day time, and by Warrant from the Commiſſioners any Cheſt, <hi>&amp;c.</hi> Calling to Aſſiſtance the Conſtables, <hi>&amp;c.</hi> 
+               <label type="milestone">
+                  <seg type="milestoneunit">pag </seg>70</label> And where no Diſtreſs can be found, the Perſon to be Impriſoned till payment.</p>
+            <p>Parents or Guardians are to pay the Rates Impoſed on Infants, and to be allowed the ſame on their Ac<g ref="char:EOLhyphen"/>counts. <label type="milestone">
+                  <seg type="milestoneunit">pag </seg>71</label> Servants or Journeymen making Default of Payment, their Maſters and Miſtreſſes are to be Chargeable therewith, and to deduct the ſame out of their Wages: And Tenants to pay the Rates on the Houſes, Lands, Tenements and Hereditaments which they hold, and to deduct the ſame out of the Rents.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">pag </seg>72</label> All Perſons Taxable for Wages, Ready Money or Debts, are to be Aſſeſſed where Reſident; Annuities, Stipends or yearly Payments at the Exchequer, or out of any Branch of the Revenue, to be Aſſeſſed where payable; And all other Penſions or yearly Payments not Charged on Land) are to be Aſſeſſed where the Perſons Intituled thereto do reſide.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">pag </seg>73</label> And all Officers, Imployments and Profeſſions are to be Rated where they are Exerciſed: And all Perſons not being Houſholders are to be Taxed at the place where they reſide at the time of Executing the Act.</p>
+            <p>The Rates on Penſions, Salaries or other Allowan<g ref="char:EOLhyphen"/>ces or Profits payable at the Exchequer, or by the Cofferer, or out of any other publick Office, or by any of His Majeſties Receivers or Paymaſters are (in caſe of Non-payment) to be ſtopt thereout.</p>
+            <p>Stock in Trade and Quick Stock upon Land is to be Rated in ſuch County or Place where it is at the time <label type="milestone">
+                  <seg type="milestoneunit">pag </seg>74</label> of the Execution of the Act; And all Perſons having any ſuch Stock in their Cuſtody for the uſe of others are to pay for the ſame, and to be allowed it upon their Accounts, or be ſatisfied out of the Goods.</p>
+            <p>Perſons out of the Realm, Taxable by this Act, are to be Aſſeſſed in the Place of their laſt Abode in the Realm; And Perſons Ratable for any Lands, Te<g ref="char:EOLhyphen"/>nements or Hereditaments, are to be Aſſeſſed in the places where the Premiſſes lye, and not elſewhere.</p>
+            <p>A proviſo, That any Perſon who in reſpect of ſeve<g ref="char:EOLhyphen"/>ral Places of Reſidence is doubly Charged, ſhall, upon <label type="milestone">
+                  <seg type="milestoneunit">pag </seg>75</label> Certificate and Oath thereof, be diſcharged for ſo much.</p>
+            <p>All Perſons who by changing their Reſidence, or by ſhifting their Goods or Stock, or altering the Securi<g ref="char:EOLhyphen"/>ties of Money, or by other Frauds ſhall eſcape being fully. Taxed, ſhall, upon proof thereof, be doubly Charged.</p>
+            <p>All Houſholders ſhall give an Account of their Lod<g ref="char:EOLhyphen"/>gers <label type="milestone">
+                  <seg type="milestoneunit">pag </seg>76</label> and Servants, and their full Wages reſpective<g ref="char:EOLhyphen"/>ly, under the Penalty of 5 <hi>l.</hi>
+            </p>
+            <p>The Officers of the Exchequer and other Publick Officers are to deliver to the Aſſeſſors Liſts of all Penſi<g ref="char:EOLhyphen"/>ons, Fees and Allowances payable by them.</p>
+            <p>All Perſons having any Moneys at Intereſt are to <label type="milestone">
+                  <seg type="milestoneunit">pag </seg>77</label> deliver to the Aſſeſſors (before they return their Cer<g ref="char:EOLhyphen"/>tificates) a Note of the Groſs Sum of Principal Mo<g ref="char:EOLhyphen"/>ney owing to them, which the Aſſeſſors are to Tax according to the ſaid Notes: But if no Notes be deli<g ref="char:EOLhyphen"/>vered,<label type="milestone">
+                  <seg type="milestoneunit">pag </seg>78</label> or that there be Grounds to believe they do not contain all the Perſons Money at Intereſt, then the Aſſeſſors are to Tax ſuch Perſons according to the beſt of their Judgment.</p>
+            <p>And all Perſons Intituled to Debts at Intereſt are to deliver to the Commiſſioners (before they deliver their Eſtreats to the Subcollectors) a Specification or Particular in Writing of the ſaid Debts Signed; And <label type="milestone">
+                  <seg type="milestoneunit">pag </seg>79</label> alſo of the Perſons, or ſome of them, who borrowed or are liable to the ſame, or of ſomething engaged for the ſaid Debts, or the nature of the Securities, with the Dates thereof, and the Names of the Wit<g ref="char:EOLhyphen"/>neſſes thereunto. Whereupon the Commiſſioners ſhall deliver back to the Parties, Copies of ſuch Specifica<g ref="char:EOLhyphen"/>tions under their Hands and Seals atteſted by two or more Witneſſes to juſtify their being duly Charged; Which Copies ſhall be allowed as Evidence in all <label type="milestone">
+                  <seg type="milestoneunit">pag </seg>80</label> Courts: And upon neglect or refuſal to give in ſuch Specifications, to forfeit (over and above the Duties intended to be Charged) twice as much, to be Sued for at any time before 25 <hi>Mar.</hi> 1699. Whereof one Moiety to the King, the other to the Proſecutor; And the Debts not contained in the ſaid Specifications <label type="milestone">
+                  <seg type="milestoneunit">pag </seg>81</label> ſhall not be Recoverable, nor the Securities for the ſame Pleadable in any Courts of Law or Equity, be<g ref="char:EOLhyphen"/>fore the ſaid 25 <hi>Mar.</hi> 1699. Unleſs the ſaid Duty and Penalty be firſt ſatisfied, <hi>viz.</hi> If no Action be Commenced by any Informer, then the Duty and Pe<g ref="char:EOLhyphen"/>nalty to be paid to the King; But if an Action be de<g ref="char:EOLhyphen"/>pending, then the Duty and one Moiety of the Penal<g ref="char:EOLhyphen"/>ty to go the King, and the other Moiety to the In<g ref="char:EOLhyphen"/>former.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">pag </seg>82</label> And for the Diſcovery of the Value of Stock upon Land, the Aſſeſſors are to Enter and View upon the Places where any ſuch Stock ſhall be, and to Value and Charge the ſame according to the Act; And if upon ſuch View the Aſſeſſors find any Fraud hath been uſed to avoid the Taxation, they are to give no<g ref="char:EOLhyphen"/>tice to the Commiſſioners, to the end the Perſons may be doubly Taxed: And the Perſons refuſing to per<g ref="char:EOLhyphen"/>mit <label type="milestone">
+                  <seg type="milestoneunit">pag </seg>83</label> ſuch View, ſhall forfeit 10 <hi>l.</hi> one Moiety to the King, the other to the Proſecutor.</p>
+            <p>And for aſcertaining the Value of Stock in Trade, all Traders ſhall deliver to the Aſſeſſors, within ten days after the Commiſſioners Iſſue their Warrant to the Aſſeſſors, a Particular in Writing Signed, of the Quantities, Kinds and Value of their Stocks, as the ſame are then Worth, <hi>bona fide,</hi> to be ſold. And the <label type="milestone">
+                  <seg type="milestoneunit">pag </seg>84</label> Aſſeſſors are Impowered (where they ſhall think it neceſſary for their Information) to Enter in the day time into any Shops, Warehouſes, <hi>&amp;c.</hi> to View and Value the Goods: And the Perſons refuſing ſuch En<g ref="char:EOLhyphen"/>trance, to forfeit 40 <hi>l.</hi> one Moiety to the King, the other to the Proſecutor: And if the Aſſeſſors are ſatiſ<g ref="char:EOLhyphen"/>fied in the truth of the Particulars delivered to them,<label type="milestone">
+                  <seg type="milestoneunit">pag </seg>85</label> they are to Aſſeſs the ſame accordingly; But if the Particulars are not delivered to them within the time
+<pb facs="tcp:135238:2"/>prefixt, or if they ſuſpect the ſaid Particulars to be fraudulent, then they are to Aſſeſs ſuch Stock in Trade, according to the beſt of their judgment.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">pag </seg>86</label> All which Aſſeſſments ſhall nevertheleſs be ſubject to the Examination of the Commiſſioners, who may al<g ref="char:EOLhyphen"/>low, abate or increaſe the ſame, as they ſee cauſe, upon Information or Appeals.</p>
+            <p>And if any Steward, Bayliff or Tenant of Houſes, Lands or Hereditaments do not diſcover to the Aſſeſ<g ref="char:EOLhyphen"/>ſors, when required, the true Rents payable for the ſame, he ſhall forfeit ſo much as ſuch Rent <hi>bona fide</hi> ſhall amount unto for two years.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">pag </seg>87</label> Any Perſons Aſſeſſed, finding themſelves agrieved, may Appeal within ten days after the Money de<g ref="char:EOLhyphen"/>manded, and any three or more of the Commiſſioners who Signed the Rate, ſhall, within ten days after ſuch Appeal, Examine the Perſon upon Oath, and a<g ref="char:EOLhyphen"/>bate or increaſe the Aſſeſſment; and to that end ſhall meet together for Determining Appeals, and ſhall Expreſs the time and place in their Warrants to the Collectors; and upon Complaints ſhall Summon <label type="milestone">
+                  <seg type="milestoneunit">pag </seg>88</label> the Aſſeſſors to attend; and ſuch Appeals being once heard are to be final.</p>
+            <p>Any Aſſeſſor, Collector or Receiver willfully ne<g ref="char:EOLhyphen"/>glecting or refuſing to do his Duty, may be Fined, not Exceeding 30 <hi>l.</hi> nor under 15 <hi>l.</hi> for every Of<g ref="char:EOLhyphen"/>fence, which Fines ſhall not be taken off or diſchar<g ref="char:EOLhyphen"/>ged but by Conſent of the majority of the Commiſ<g ref="char:EOLhyphen"/>ſioners who Impoſed the ſame; but ſhall be Levied by Diſtreſs or Sale of the Offenders Goods; and in <label type="milestone">
+                  <seg type="milestoneunit">pag </seg>89</label> default of Goods, the Offenders to be Impriſoned till payment of the Fines.</p>
+            <p>The Collectors not paying the Money they Col<g ref="char:EOLhyphen"/>lect, <label type="milestone">
+                  <seg type="milestoneunit">pag </seg>90</label> according to the Direction of the Act, are to be Impriſoned, and their Eſtates Seized; Whereupon the Commiſſioners are to appoint a General Meeting, of which Six days Notice at leaſt is to be given, and then to Sell what ſhall be ſo Seized, or any part thereof.</p>
+            <p>At the Expiration of the time for the full Pay<g ref="char:EOLhyphen"/>ment of all the ſaid Monthly Payments, the Com<g ref="char:EOLhyphen"/>miſſioners are to examin into the full Payment of the <label type="milestone">
+                  <seg type="milestoneunit">pag </seg>91</label> Sums Charged, and in caſe of failure, to cauſe the ſame to be forthwith Levied and Paid.</p>
+            <p>If any Controverſie ariſe concerning the Aſſeſſing the Commiſſioners, the Commiſſioners concern'd ſhall withdraw during the Debate, and in default there<g ref="char:EOLhyphen"/>of <label type="milestone">
+                  <seg type="milestoneunit">pag </seg>92</label> to be Fined, not exceeding 20 <hi>l.</hi> And all Queſti<g ref="char:EOLhyphen"/>ons and Differences are to be determin'd by the Commiſſioners without Suit in Law.</p>
+            <p>A Proviſo againſt Charging any Colleges or Halls in the Univerſities, or the Colleges of <hi>Windſor, Ea<g ref="char:EOLhyphen"/>ton, Wincheſter</hi> or <hi>Weſtminſter,</hi> The Corporation of Clergymens-Sons, <hi>Bromley College,</hi> or the Settle<g ref="char:EOLhyphen"/>ment in Truſt of <hi>Tobias Ruſtat</hi> on <hi>Jeſus College,</hi> or any Alms-Houſes or Free-Schools, or any Maſter, Fellow or Scholar of any College or Free-School, or any Reader, Officer or Miniſter of the Univerſities, or the Maſters or Uſhers of any Schools, or Alms-Men <label type="milestone">
+                  <seg type="milestoneunit">pag </seg>93</label> of any Hoſpital or Alms-houſe for their Stipends; or the Houſes or Lands of <hi>Chriſts</hi> Hoſpital, St. <hi>Bar<g ref="char:EOLhyphen"/>tholomews, Bridewell,</hi> St. <hi>Thomas</hi> and <hi>Bethlehem</hi> Ho<g ref="char:EOLhyphen"/>ſpital; or the Poor of any Hoſpital, whoſe Annual Maintenance doth not exceed 20 <hi>l.</hi> Provided that the Tenants of ſuch Hoſpitals, <hi>&amp;c.</hi> ſhall be Rated for what the Lands are worth above the Rents reſerved.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">pag </seg>94</label> All places are to be Aſſeſſed in ſuch County, Diviſi<g ref="char:EOLhyphen"/>on or Place where uſually Aſſeſſed. Provided that <hi>Weſt Barnfield</hi> Hundred in <hi>Kent</hi> may be Aſſeſſed in the Lathe of <hi>Scray; Northmore</hi> Tything in <hi>Oxford<g ref="char:EOLhyphen"/>ſhire</hi> in the Hundred of <hi>Bampton;</hi> The Tythings of <hi>Charlbury, Faller</hi> and <hi>Tinſtock</hi> in the Hundred of <hi>Chadlington;</hi> The Town and Pariſh of <hi>Leeds</hi> in <hi>York<g ref="char:EOLhyphen"/>ſhire,</hi> in the Hundred of <hi>Skyrack.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">pag </seg>95</label> A Proviſo that this Act ſhall not make Void any Con<g ref="char:EOLhyphen"/>tracts between Landlords and Tenants touching Taxes.</p>
+            <p>If any Action be Commenced or Proſecuted for a<g ref="char:EOLhyphen"/>ny thing done in purſuance of this Act, the Defen<g ref="char:EOLhyphen"/>dant may plead the general Iſſue, and this Act, and the Special Matter in Evidence; and if the Plaintiff be Nonſuit or Verdict paſs againſt him, the De<g ref="char:EOLhyphen"/>fendant ſhall recover Treble Coſts.</p>
+            <p>The Receivers General ſhall give the Head Col<g ref="char:EOLhyphen"/>lectors Acquittances <hi>gratis,</hi> and ſo ſhall the Head Collectors to the Subcollectors.</p>
+            <p>The Subcollectors ſhall deliver Schedules to the <label type="milestone">
+                  <seg type="milestoneunit">pag </seg>96</label> Head Collectors, of thoſe that make default of Pay<g ref="char:EOLhyphen"/>ment, where there is no Diſtreſs; which Schedules are to be deliver'd to the Receivers General to be re<g ref="char:EOLhyphen"/>turn'd into the Exchequer: And where Land or Hou<g ref="char:EOLhyphen"/>ſes are unoccupied, and no Diſtreſs, nor the Perſon of the Owner to be found within the County, ſuch Perſons Name is to be Certified into the Exchequer,<label type="milestone">
+                  <seg type="milestoneunit">pag </seg>97</label> and Proceſs thereupon is to iſſue againſt the Body, Land and Goods.</p>
+            <p>In caſe of Non-payment for Woodlands, and no Diſtreſs to be had, ſo much of the Wood (Timber Trees excepted) may be Felled and Sold as will pay the Aſſeſſment. And in caſe of Non-payment of Tythes, Tolls, Profits of Markets, Fairs, Fiſheries or <label type="milestone">
+                  <seg type="milestoneunit">pag </seg>98</label> other Annual Profits not Diſtrainable, ſo much there<g ref="char:EOLhyphen"/>of may be Seized and Sold as the Tax amounts unto.</p>
+            <p>Receivers General Returning any into the Exche<g ref="char:EOLhyphen"/>quer who have paid their Tax, are to Forfeit Treble Damage to the Party agrieved, and to His Majeſty <label type="milestone">
+                  <seg type="milestoneunit">pag </seg>99</label> double the Sum unjuſtly certified.</p>
+            <p>The Commiſſioners are to Aſſeſs each other within their Diviſion, and are alſo to Aſſeſs the Aſſeſſors.<label type="milestone">
+                  <seg type="milestoneunit">pag </seg>100</label>
+            </p>
+            <p>All Perſons having any ſhare in the <hi>New-River, Thames, Hide-Park, Marybone</hi> or <hi>Hampſted</hi> Waters, or any Profits ariſing thereby, or any Stock in the Office for Inſuring of Houſes, or in the Convex or other Lights, or in the Kings Printing Houſe, ſhall pay 3 <hi>s.</hi> in the Pound, of the full yearly Value; And <label type="milestone">
+                  <seg type="milestoneunit">pag </seg>101</label> theſe Stocks or Shares, and all Companies of Mer<g ref="char:EOLhyphen"/>chants in <hi>London,</hi> are to be Aſſeſſed by the Commiſ<g ref="char:EOLhyphen"/>ſioners appointed for the City of <hi>London,</hi> and the Sums to be paid by the reſpective Governors, Trea<g ref="char:EOLhyphen"/>ſurers or Receivers.</p>
+            <p>The Commiſſioners are to require an Account from time to time of the Moneys Receiv'd by the Recei<g ref="char:EOLhyphen"/>vers General, and of the Payments thereof into the Exchequer, and in caſe of failure, to cauſe the ſame to be forthwith Levied.</p>
+            <p>No Letters Patents or Privileges ſhall exempt any from Payment of the Rates in this Act.</p>
+            <p>Provided that no Perſon be Compelled to be an Aſ<g ref="char:EOLhyphen"/>ſeſſor <label type="milestone">
+                  <seg type="milestoneunit">pag </seg>102</label> or Collector out of the Limits of the City, Borough or Town Corporate where he lives.</p>
+            <p>And provided that the Aſſeſſments on Houſes where Foreign Miniſters ſhall be reſident, ſhall be paid by the Landlord or Owner.</p>
+            <p>In all Privileged and Extraparochial Places, the <label type="milestone">
+                  <seg type="milestoneunit">pag </seg>103</label> Commiſſioners are to Nominate Two Perſons, in or near the ſaid Places, to be Aſſeſſors.</p>
+            <p>A Proviſo that no Commiſſioner ſhall be liable to the Penalties in the Act of 25 <hi>Car.</hi> 2. touching Popiſh <label type="milestone">
+                  <seg type="milestoneunit">pag </seg>104</label> Recuſants; nor be capable to Act before he hath ta<g ref="char:EOLhyphen"/>ken the Oaths in the Act 1 <hi>W.</hi> &amp; <hi>M. for Abrogating the Oaths of Allegiance and Supremacy,</hi> and alſo the Oath hereby appointed; which Oaths any Two of the Commiſſioners are to Adminiſter.</p>
+            <p>Every Papiſt or reputed Papiſt of the Age of Six<g ref="char:EOLhyphen"/>teen <label type="milestone">
+                  <seg type="milestoneunit">pag </seg>105</label> Years or upwards, not having taken the Oaths in the ſaid Act of 1 <hi>W.</hi> &amp; <hi>M.</hi> is to pay double, unleſs he or ſhe take the Oaths within Ten Days after the firſt meeting of the Commiſſioners.</p>
+            <p>Every Perſon of Sixteen years of Age or upwards, who ſhall not have taken the Oaths before the time of the Execution of the Act, and being Summon'd ſhall refuſe to take the Oaths, or neglect to appear before the Commiſſioners in order thereto, ſhall pay double.</p>
+            <p>Every Gentleman, or ſo Reputed, or being above <label type="milestone">
+                  <seg type="milestoneunit">pag </seg>106</label> that Quality, who by the Act 3 <hi>W.</hi> &amp; <hi>M.</hi> for the Quar<g ref="char:EOLhyphen"/>terly Poll, did or ought to have paid double, and ſhall not voluntarily take the Oaths before the Commiſ<g ref="char:EOLhyphen"/>ſioners, within Ten Days after their firſt meeting, ſhall pay double.</p>
+            <p>And the Commiſſioners, upon Information or Su<g ref="char:EOLhyphen"/>ſpicion,<label type="milestone">
+                  <seg type="milestoneunit">pag </seg>107</label> are to Summon the Perſon ſuſpected, to ap<g ref="char:EOLhyphen"/>pear and take the Oaths: But Quakers, inſtead of the Oaths, may Make and Subſcribe the Declaration of Fidelity 1 <hi>W.</hi> &amp; <hi>M.</hi> and ſo doing ſhall not be liable <label type="milestone">
+                  <seg type="milestoneunit">pag </seg>108</label> to double Rates.</p>
+            <p>Provided that where the Owners of Lands are lia<g ref="char:EOLhyphen"/>ble to double Rates, ſuch Owner only to pay the dou<g ref="char:EOLhyphen"/>ble Rate, and not the Tenant, notwithſtanding any Covenant for Payment of Taxes.</p>
+            <p>A Proviſo that no Perſon be liable to the Pound Rate, whoſe Lands, <hi>&amp;c.</hi> are not of the Yearly Value of 20 <hi>s.</hi>
+            </p>
+            <p>A Proviſo that the Chancery Officers within the Li<g ref="char:EOLhyphen"/>berty <label type="milestone">
+                  <seg type="milestoneunit">pag </seg>109</label> of the <hi>Rolls</hi> ſhall be there Aſſeſſed.</p>
+            <p>Collectors keeping any Moneys in their Hands, or not paying the ſame as the Act directs, are to forfeit 10 <hi>l</hi> and the Head Collectors for the like offence 40 <hi>l.</hi>
+            </p>
+            <p>If after the Aſſeſſment any Perſons remove to a <label type="milestone">
+                  <seg type="milestoneunit">pag </seg>110</label>
+               <pb n="4" facs="tcp:135238:3" rendition="simple:additions"/>Place where they were not Rated, the Commiſſioners are to Summon ſuch Perſons before them, and cauſe them be duly Rated, and to pay the ſame, or ſuch part as ſhall be unpaid.</p>
+            <p>The <hi>Kings Bench</hi> Priſon, with the Lands, <hi>&amp;c.</hi> and the Rents and Profits of the Marſhal thereof; and <milestone type="tcpmilestone" unit="unspecified" n="111"/> the Priſon Houſe, Lands, <hi>&amp;c.</hi> of the <hi>Marſhalſea</hi> Priſon, and Offices and Perquiſites of the <hi>Marſhals Court,</hi> ſhall be Aſſeſſed in the Pariſh of St. <hi>George</hi> in <hi>Southwark.</hi>
+            </p>
+            <p>Any Perſon acting as a Commiſſioner, before he hath taken the Oaths, forfeits 500 <hi>l.</hi> to the King.</p>
+            <p>The Water-works in <hi>Southwark</hi> are to be Rated by the Commiſſioners and Aſſeſſors of <hi>Surrey;</hi> and thoſe in <hi>Weſtminſter</hi> by the Commiſſioners and Aſſeſſors for <hi>Weſtminſter.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="112"/> Receivers General neglecting or refuſing to return Duplicates of the Aſſeſſments into the Exchequer by the times prefixt, ſhall forfeit 50 <hi>l.</hi> and be incapable of any Truſt from His Majeſty.</p>
+            <p>All Auditors and Receivers are to allow 3 <hi>s.</hi> in the Pound out of any Fee-Farm or other Chief Rents payable to His Majeſty or the Queen Dowager, or any others by Grant or Purchaſe from the Crown, under the Penalty of 10 <hi>l.</hi>
+            </p>
+            <p>A Proviſo that Rectories. Vicaridges or Curacies under 40 <hi>l. per An.</hi> ſhall not be Taxed, if the Rector, Vicar or Curate reſides upon the Place, or perſonally ſerves the Cure.</p>
+            <p>No Tenant of Houſes or Lands bel<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>onging to Col<g ref="char:EOLhyphen"/>leges, Halls, Hoſpitals, Alms-houſes or Schools, who by their Contracts are obliged to pay all Taxes, ſhall be exempted.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified"/> The Allowance of Three Halfpence in the Pound to the Commiſſioners Clerks is not to be paid till they have tranſmitted the Duplicates into the Remem<g ref="char:EOLhyphen"/>brancers Office, and have a Certificate thereof.</p>
+            <p>Members of Parliament are to be Aſſeſſed for their Perſonal Tax of 4 <hi>d. per</hi> Month, and for their Ready Money and Debts where they uſually reſide in the In<g ref="char:EOLhyphen"/>tervals <milestone type="tcpmilestone" unit="unspecified" n="115"/> of Parliament. Provided that if their uſual Re<g ref="char:EOLhyphen"/>ſidence be not within the Cities of <hi>London</hi> and <hi>Weſt<g ref="char:EOLhyphen"/>minſter,</hi> or 20 Miles of the ſame, they ſhall not be Aſ<g ref="char:EOLhyphen"/>ſeſſed for their Money, Debts, Stock in Trade or up<g ref="char:EOLhyphen"/>on Lands until Twenty Days after the Riſing of the Parliament. And Servants attending the ſaid Mem<g ref="char:EOLhyphen"/>bers are not to be Aſſeſſed for their Wages until the time aforeſaid.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified"/> A Proviſo, That upon Oath before the Commiſſio<g ref="char:EOLhyphen"/>ners, that any Debts contained in the Specifications required by this Act are deſperate, The Commiſſio<g ref="char:EOLhyphen"/>ners are to inform themſelves, and to Charge or Diſ<g ref="char:EOLhyphen"/>charge the ſame as they ſee cauſe; which Diſcharge is to be noted upon the ſaid Specification and Dupli<g ref="char:EOLhyphen"/>cates thereof.</p>
+            <p>Perſons giving an Account in their Specifications of the Money they owe at Intereſt, The Commiſſio<g ref="char:EOLhyphen"/>ners being ſatisfied therewith, by Oath or otherwiſe, ſhall make a proportionable Allowance or Deductio<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> out of the Tax.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified"/> Provided, That where Lands, <hi>&amp;c.</hi> are, and from 29 <hi>Sept.</hi> 1696. have been in the actual poſſeſſion of any Perſon for Debts, to which the ſame were liable, ſuch Debts are not to be charged by this Act.</p>
+            <p>All or any part of the Monthly Payments in this Act, may be paid in Hammer'd Silver Money at 5 <hi>s.</hi> 8 <hi>d.</hi> an Ounce at any time before 1 <hi>June</hi> 1697.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="119"/> If the Aſſeſſors neglect, the Commiſſioners are to take care, That Papiſts and Perſons not taking the Oaths be doubly charged.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="120"/> Perſons beyond Sea and Minors having Moneys at Intereſt in this Kingdom, their Truſtees or Guardians are to pay the Duties.</p>
+            <p>Receivers General are to keep a diſtinct Account of the 3 <hi>s.</hi> in the Pound upon Lands, Tenements, Here<g ref="char:EOLhyphen"/>ditaments, <milestone type="tcpmilestone" unit="unspecified" n="121"/>
+               <hi>&amp;c.</hi> And every ſuch Receiver General or his Deputy miſapplying any part of the Moneys ari<g ref="char:EOLhyphen"/>ſing by the ſaid Pound Rate of 3 <hi>s.</hi> in the Pound, ſhall forfeit 500 <hi>l.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="122"/> The Commiſſioners of the Treaſury, or Lord Trea<g ref="char:EOLhyphen"/>ſurer are not to direct any Warrant for payment of any Moneys ariſing by the ſaid Pound Rate of 3 <hi>s.</hi> otherwiſe than into the <hi>Exchequer;</hi> nor to the Of<g ref="char:EOLhyphen"/>ficers of the <hi>Exchequer</hi> for ſtriking any Tallies of <hi>pro</hi> or <hi>Anticipation</hi> upon the ſame; nor ſhall any Teller charge himſelf with any of the ſaid Moneys till he has actually received it.</p>
+            <p>No ſtay of Proceſs ſhall be made for any of the Penalties by this Act inflicted.</p>
+            <p>Loans on Credit of Contributions for Annuities pur<g ref="char:EOLhyphen"/>ſuant <label type="milestone">
+                  <seg type="milestoneunit">pag </seg>123</label> to an Act 7 <hi>W</hi> 3. remaining unſatisfied, to be in the firſt place Transferred to the Regiſter appoint<g ref="char:EOLhyphen"/>ed for the Tax of 3 <hi>s.</hi> in the Pound: And in the next place, all Moneys lent on the <hi>Exchequer</hi> in general,<label type="milestone">
+                  <seg type="milestoneunit">pag </seg>125</label> between 1 <hi>July</hi> 1696 and 1 <hi>Febr.</hi> 1696 Which Tranſ<g ref="char:EOLhyphen"/>ferred Orders of Loan ſhall be Aſſignable.</p>
+            <p>Any Perſons, Natives or Foreigners, may Lend His Majeſty any Sums not exceeding 1500000 <hi>l.</hi> (inclu<g ref="char:EOLhyphen"/>ding the Sums Transferred) at the rate of 8 <hi>l per cent.</hi> on Credit of the Tax of 3 <hi>s.</hi> in the Pound, and the Moneys ſo Lent on this Act are not to be Taxed.</p>
+            <p>A diſtinct Regiſter is to be kept in the <hi>Exchequer</hi> of <label type="milestone">
+                  <seg type="milestoneunit">pag </seg>126</label> the Produce of the 3 <hi>s.</hi> in the Pound: And the Inte<g ref="char:EOLhyphen"/>reſt for Moneys Lent thereon ſhall be paid in courſe <label type="milestone">
+                  <seg type="milestoneunit">pag </seg>127</label> every three Months, without any undue preferrence by the Officers of the <hi>Exchequer,</hi> as they will avoid <label type="milestone">
+                  <seg type="milestoneunit">pag </seg>128</label> the Penalties inflicted by the Act.</p>
+            <p>Orders of Loan, by Virtue of this Act, being Entred,<label type="milestone">
+                  <seg type="milestoneunit">pag </seg>129</label> are made aſſignable.</p>
+            <p>The Commiſſioners of the Treaſury, or High Trea<g ref="char:EOLhyphen"/>ſurer,<label type="milestone">
+                  <seg type="milestoneunit">pag </seg>130</label> may iſſue Bills at the <hi>Exchequer</hi> for any Sums not exceeding 1500000 <hi>l.</hi> for the uſe of the War; Which Bills ſhall be Current in all Payments for any <label type="milestone">
+                  <seg type="milestoneunit">pag </seg>131</label> Aids or Supplies for the War for the year 1697, ex<g ref="char:EOLhyphen"/>cept in the 3 <hi>s.</hi> in the Pound.</p>
+            <p>And the Receivers and Collectors out of the Mill'd <label type="milestone">
+                  <seg type="milestoneunit">pag </seg>132</label> Money or Gold in their Hands, are to pay ſuch Bills as ſhall be brought to them, under Penalty of for<g ref="char:EOLhyphen"/>feiting double the Sum. Which Receivers, upon Pay<g ref="char:EOLhyphen"/>ment of any of the ſaid Bills into the Exchequer, are to have Tallies for their Diſcharge; And the Bills ſo paid in to be immediately Cancelled.</p>
+            <p>And the Money paid into the Exchequer for any Supplies for the Year 1697. (Except for the 3 <hi>s.</hi> Aid) ſhall be applied to the taking up and cancelling ſuch Bills: But if the Supplies for the Year 1697. (Except for the 3 <hi>s.</hi> Aid) be Deficient of 1500000 <hi>l.</hi> Authorized to be Iſſued in Bills, ſuch Deficiency is to be in the firſt place made Good out of any Moneys that ſhall be Raiſed by any Act of next Seſſion of Par<g ref="char:EOLhyphen"/>liament.</p>
+            <p>Every Receiver General is to Enter in Books all the <label type="milestone">
+                  <seg type="milestoneunit">pag </seg>133</label> Sums he Receives, the Names of each Collector, the days when, and Sums paid, how much in Ham<g ref="char:EOLhyphen"/>mer'd and how much in Mill'd Money or Gold, and all Bills by him paid in purſuance of this Act. Which Books are to lye conſtantly open at one cer<g ref="char:EOLhyphen"/>tain place within his Receipt, to which all Perſons are to have acceſs. And every Receiver neglecting to keep ſuch Book, or to Enter his Receipts by the ſpace of three days, or refuſing any Perſon to inſpect the ſame, ſhall forfeit 100 <hi>l.</hi>
+            </p>
+            <p>A Proviſo, That 200000 <hi>l.</hi> out of the firſt Bills to <label type="milestone">
+                  <seg type="milestoneunit">pag </seg>134</label> be Iſſued, or the firſt Moneys ariſing by this Act (Ex<g ref="char:EOLhyphen"/>cept the 3 <hi>s</hi> Aid, and Loans thereupon) ſhall be Ap<g ref="char:EOLhyphen"/>propriated for payment of Soldiers Quarters in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> between 1 <hi>Jan</hi> 1694. and 1 <hi>Jan</hi> 1696. not o<g ref="char:EOLhyphen"/>therwiſe ſatisfied before 1 <hi>Feb.</hi> 1696. if the ſaid <label type="milestone">
+                  <seg type="milestoneunit">pag </seg>135</label> Quarters amount to ſo much. And that it ſhall be Fe<g ref="char:EOLhyphen"/>lony to Counterfeit the ſaid Exchequer Bills.</p>
+            <p>A Proviſo, That this Act ſhall not Charge the 50000 <hi>l. per Ann</hi> Granted in Truſt for the Prince and Princeſs of <hi>Denmark</hi> with the Duty of 4 <hi>s.</hi> 4 <hi>d. per</hi> Pound</p>
+            <p>All Perſons not Charged (over and above the <label type="milestone">
+                  <seg type="milestoneunit">pag </seg>136</label> 4 <hi>d. per</hi> Month) with the Duties on Wages, Pen<g ref="char:EOLhyphen"/>ſions, Salaries, Offices or Imployments of the year<g ref="char:EOLhyphen"/>ly Value of 8 <hi>l.</hi> or for their own Lands or Tene<g ref="char:EOLhyphen"/>ments of the yearly Value of 40 <hi>s.</hi> or for Money or Stock of the Value of 5 <hi>l.</hi> ſhall not be Charged with the 4 <hi>d. per</hi> Month for their Children, under the Age of Sixteen Years.</p>
+            <p>Alſo Poor Houſekeepers, who by reaſon of their <label type="milestone">
+                  <seg type="milestoneunit">pag </seg>137</label> Poverty do not Contribute to Church or Poor, ſhall not be Charged by this Act; Nor ſhall it Extend to Charge Unfiniſhed Houſes.</p>
+            <p>A Proviſo, That Hammer'd Money ſhall be Cur<g ref="char:EOLhyphen"/>rent <label type="milestone">
+                  <seg type="milestoneunit">pag </seg>138</label> at 5 <hi>s.</hi> 2 <hi>d.</hi> an Ounce after 1 <hi>Feb.</hi> 1696 in all Payments, Except where it is Directed to be Received at a greater Value.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>Charles Bill,</hi> and the Executrix of <hi>Thomas Newcomb,</hi> deceas'd, Printers to the Kings moſt Excellent Majeſty. 1696.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
